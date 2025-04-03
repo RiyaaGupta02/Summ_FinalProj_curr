@@ -10,7 +10,7 @@ This application is designed to efficiently summarize Text, PDFs, and Urls provi
 - **PDF Summarization:** Extracts and summarizes text from PDFs, making document analysis more efficient.
 - **URL Summarization:** Fetches and summarizes webpage content.
 - **Curious Assistance:** A built-in site web search tool that allows users to look up doubts and information instantly without leaving the site, making it a one-stop solution for coursework and documentation needs.
-- **Keyword-Focused Summarization:** Uses AI21’s model to generate summaries centered around a specific keyword, ensuring relevant insights and benefits are highlighted.
+- **Keyword-Focused Summarization:** Uses AI21’s model to generate summaries centered around a specific keyword, highlighting relevant insights and benefits.
  ![image alt](https://github.com/RiyaaGupta02/Summ_FinalProj_curr/blob/affaafb5741065b56552ad5c84a4f4a0fb273d2c/Text_Summarize_Proj.jpeg)
  ![image alt](https://github.com/RiyaaGupta02/Summ_FinalProj_curr/blob/affaafb5741065b56552ad5c84a4f4a0fb273d2c/WhatsApp%20Image%202025-03-18%20at%2002.23.52.jpeg)
   
